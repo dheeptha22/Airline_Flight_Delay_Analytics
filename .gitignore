@@ -1,0 +1,20 @@
+# Large datasets
+flights.csv
+airlines.csv
+data/raw/flights.csv
+data/cleaned/flight_data_cleaned.csv
+data/cleaned/flight_data_cloud_connected.csv
+data/cleaned/flight_data_cloud_final.csv
+
+# Google Drive authentication
+.secrets/
+.cache/
+credentials/
+
+# RStudio temporary files
+.Rproj.user/
+
+# Local R files
+.Rhistory
+.RData
+.Renviron
